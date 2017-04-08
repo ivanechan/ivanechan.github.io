@@ -120,7 +120,7 @@ three.js r65 or higher
             lat: 0,
             loop: "loop",
             muted: true,
-			volume: 0.1,
+			volume: 0.4,
             debug: false,
             flatProjection: false,
             autoplay: true
