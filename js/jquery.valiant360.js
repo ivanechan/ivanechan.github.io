@@ -110,7 +110,7 @@ three.js r65 or higher
         plugin, // will hold reference to instantiated Plugin
         defaults = {
             crossOrigin: 'anonymous',
-            clickAndDrag: false,
+            clickAndDrag: true,
 			keyboardControls: true,
             fov: 35,
             fovMin: 3,
@@ -120,7 +120,7 @@ three.js r65 or higher
             lat: 0,
             loop: "loop",
             muted: true,
-			volume: 0.5,
+			volume: 0.1,
             debug: false,
             flatProjection: false,
             autoplay: true
